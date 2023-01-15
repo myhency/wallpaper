@@ -1,0 +1,16 @@
+export const IMAGE_LIST = [
+    "https://images.pexels.com/photos/6633071/pexels-photo-6633071.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
+    "https://images.pexels.com/photos/7303342/pexels-photo-7303342.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
+    "https://images.pexels.com/photos/7303341/pexels-photo-7303341.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
+    "https://images.pexels.com/photos/7303340/pexels-photo-7303340.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
+    "https://images.pexels.com/photos/7303339/pexels-photo-7303339.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
+    "https://images.pexels.com/photos/7303338/pexels-photo-7303338.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
+    "https://images.pexels.com/photos/7303337/pexels-photo-7303337.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
+    "https://images.pexels.com/photos/7303336/pexels-photo-7303336.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
+    "https://images.pexels.com/photos/7303335/pexels-photo-7303335.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
+    "https://images.pexels.com/photos/7303334/pexels-photo-7303334.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
+    "https://images.pexels.com/photos/7303333/pexels-photo-7303333.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
+    "https://images.pexels.com/photos/7303332/pexels-photo-7303332.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
+    "https://images.pexels.com/photos/7303331/pexels-photo-7303331.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
+    "https://images.pexels.com/photos/7303330/pexels-photo-7303330.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
+];
